@@ -9,4 +9,4 @@ draft: false
 ---
 这是一篇存放在独立仓库的文章！
 
-正在测试 GitHub Actions。
+正在测试 GitHub Actions!
