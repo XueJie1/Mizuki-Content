@@ -8,3 +8,5 @@ category: 日记
 draft: false
 ---
 这是一篇存放在独立仓库的文章！
+
+正在测试 GitHub Actions。
