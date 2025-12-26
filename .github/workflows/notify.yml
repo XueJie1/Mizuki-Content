@@ -13,4 +13,5 @@ jobs:
               with:
                   token: ${{ secrets.BLOG_DEPLOY_TOKEN }} # 这里的 Token 也要在这个仓库配置
                   repository: XueJie1/mizuki-blog # 替换成你的代码仓库名
-                  event-type: content_update
+                  event-type: content-update
+
